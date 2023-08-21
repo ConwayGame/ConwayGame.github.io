@@ -1,1 +1,0 @@
-# ConwayGame.github.io
